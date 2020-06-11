@@ -4,7 +4,6 @@ from os import listdir
 from os import mkdir
 from os import remove
 import shutil
-import datetime
 
 db_path = './SNDataBase/'
 password_file = db_path+"SNPasswordInfo.txt"
